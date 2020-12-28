@@ -1,0 +1,4 @@
+Flask==1.1.1
+gunicorn==20.0.4
+selenium==3.141.0
+chromedriver-binary==79.0.3945.36
